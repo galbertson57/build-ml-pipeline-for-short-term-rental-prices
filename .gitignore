@@ -115,3 +115,4 @@ random_forest_dir/
 multirun/
 *csv
 miniconda.sh
+rf_config.json
